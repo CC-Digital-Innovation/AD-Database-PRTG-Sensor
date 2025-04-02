@@ -3,6 +3,9 @@
 ## Overview
 This PowerShell script creates a custom PRTG sensor that monitors key metrics of Active Directory NTDS databases on domain controllers. It measures database size, estimated whitespace, drive usage, and available free space, presenting the results in PRTG-compatible format with appropriate thresholds.
 
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/f4182fa2-6926-472a-8892-76a92d9d8878" />
+
+
 ## Features
 * Retrieves AD database size and location from the remote domain controller
 * Calculates database whitespace percentage (estimated)
